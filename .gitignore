@@ -35,5 +35,11 @@ target/
 
 # OS files
 .DS_Store
+<<<<<<< HEAD
 Thumbs.db
+backend/target/
+=======
+Thumbs.db
+>>>>>>> develop
+
 backend/target/
